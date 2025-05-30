@@ -16,4 +16,4 @@ This notebook allows you to send emails using **natural language prompts** via *
 
 ## 🛠️ Setup Instructions
 
-### 1. 📁 Clone or open the notebook in Colab
+### 📁 Clone or open the notebook in Colab
